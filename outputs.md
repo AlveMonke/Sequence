@@ -1,4 +1,4 @@
-# Here are the results for natural numbers till 20:-
+# Here are the results for natural numbers till 15:-
 
 ## For 1:-
 
